@@ -4,10 +4,9 @@
 
 Probably working on the [Jenkins Templating Engine](https://github.com/jenkinsci/templating-engine-plugin).
 
-
-
 ### Presentations
 
+* [DevOps World 2020: Managing DevSecOps Pipelines at Scale with Jenkins Templating Engine](https://www.cloudbees.com/resources/jenkins-template-pipeline-devsecops)
 * [Jenkins Online Meetup: JTE](https://youtu.be/pz_kPpb9C1w)
 * [KubeCon NA 2019: Building Reusable DevSecOps Pipelines on a Secure Kubernetes Platform](https://www.youtube.com/watch?v=OClSwxhsspA)
 * [Top 5 Cloud Native Pipeline Security Considerations](http://info.sysdig.com/lYZ8E000R3ff0T0h80E0p0Q)
