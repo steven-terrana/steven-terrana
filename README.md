@@ -4,6 +4,8 @@
 
 Probably working on the [Jenkins Templating Engine](https://github.com/jenkinsci/templating-engine-plugin).
 
+Sometimes I write stuff down at [buzzword.engineering](https://buzzword.engineering).
+
 ### Presentations
 
 * [DevOps World 2020: Managing DevSecOps Pipelines at Scale with Jenkins Templating Engine](https://www.cloudbees.com/resources/jenkins-template-pipeline-devsecops)
