@@ -2,7 +2,11 @@
 
 ### About Me
 
-Probably working on the [Jenkins Templating Engine](https://github.com/jenkinsci/templating-engine-plugin).
+Open Source Stuff:
+
+* [Jenkins Templating Engine](https://github.com/jenkinsci/templating-engine-plugin)
+* [Gradle JTE Plugin](https://github.com/jenkinsci/gradle-jte-plugin)
+* [mkdocs-yamp-plugin](https://github.com/boozallen/mkdocs-yamp-plugin)
 
 Sometimes I write stuff down at [buzzword.engineering](https://buzzword.engineering).
 
